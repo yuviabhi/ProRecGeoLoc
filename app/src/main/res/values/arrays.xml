@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="salary_group">
+        <item>Less than Rs. 25,000</item>
+        <item>Rs. 25,000 - 50,000</item>
+        <item>Rs. 50,000 - 1,00,000</item>
+        <item>More than Rs. 1,00,000</item>
+
+    </string-array>
+</resources>
